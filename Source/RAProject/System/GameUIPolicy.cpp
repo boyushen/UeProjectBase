@@ -4,7 +4,7 @@
 #include "GameUIPolicy.h"
 #include "Engine/LocalPlayer.h"
 #include "CommonLocalPlayer.h"
-#include "UI/OverAllUILayout.h"
+#include "../UI/OverAllUILayout.h"
 #include "Engine/Engine.h"
 void UGameUIPolicy::NotifyPlayerAdded(UCommonLocalPlayer* LocalPlayer)
 {
